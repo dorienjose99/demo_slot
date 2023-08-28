@@ -1,17 +1,17 @@
 {
    "settings":{
-	"status":true,
-	"check_installation":true,
-	"day_of_installation":3,
-	"logo_app":"https://i.ibb.co/wpGGXYW/Demo-Slot-min.png",
-	"article":"Slot demo adalah versi game slot online yang dapat dimainkan secara gratis tanpa harus memasang taruhan uang asli. Fitur ini sangat berguna bagi pemain yang ingin mencoba game slot baru tanpa harus mengambil risiko kehilangan uang. Selain itu, slot demo juga bisa digunakan oleh pemain untuk mencari tahu apakah game slot tersebut sesuai dengan selera mereka atau tidak.",
-	"link_vvip":"https://idrpiala88.com/?reff=solusikita",
-	"link_rtp":"https://www.rtppiala88.com"
+   "status":true,
+   "check_installation":true,
+   "day_of_installation":3,
+   "logo_app":"https://i.ibb.co/wpGGXYW/Demo-Slot-min.png",
+   "article":"Slot demo adalah versi game slot online yang dapat dimainkan secara gratis tanpa harus memasang taruhan uang asli. Fitur ini sangat berguna bagi pemain yang ingin mencoba game slot baru tanpa harus mengambil risiko kehilangan uang. Selain itu, slot demo juga bisa digunakan oleh pemain untuk mencari tahu apakah game slot tersebut sesuai dengan selera mereka atau tidak.",
+   "link_vvip":"https://idrpiala88.com/?reff=solusikita",
+   "link_rtp":"https://www.rtppiala88.com"
    },
    "sliders":[
       {
-	 "img":"https://i.ibb.co/WpZwqg4/slider.png",
-         "link":"Selamat Datang Di Demo Slot"	   
+    "img":"https://i.ibb.co/WpZwqg4/slider.png",
+         "link":"Selamat Datang Di Demo Slot"      
       },
       {
          "img":"https://i.ibb.co/n6ZpVrK/Piala88-Slider-1-Akun-Semua-Permainan3.webp",
@@ -28,7 +28,7 @@
                "name":"Gates Of Olympus",
                "icon":"https://i.ibb.co/qCw33m6/gates-of-olympus-pragmatic-play.jpg",
                "link_demo":"https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?gameSymbol=vs20olympgate&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobby_url=https%3A%2F%2Fwww.pragmaticplay.com%2Fen%2F&lang=ID&cur=DOLAR",
-               "link_vvip":"https://idrpiala88.com/?ref=solusikita"
+               "link_vvip":"https://toppiala88.com/?ref=apkgacor88"
             }, {
                "name":"Sweet Bonanza",
                "icon":"https://i.ibb.co/sPbqnH1/sweet-bonanza-pragmatic-play.jpg",
@@ -38,27 +38,27 @@
                "name":"Sugar Rush",
                "icon":"https://i.ibb.co/9s3gB5w/sugar-rush-pragmatic-play.jpg",
                "link_demo":"https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=DOLAR&websiteUrl=demogamesfree.pragmaticplay.net%26&gameSymbol=vs20sugarrush&jurisdiction=99&lobbyUrl=https://clienthub.pragmaticplay.com/slots/game-library/",
-               "link_vvip":"https://idrpiala88.com/?ref=solusikita"
+               "link_vvip":"https://toppiala88.com/?ref=apkgacor88"
             }, {
                "name":"Starlight Princess",
                "icon":"https://i.ibb.co/PZVwYn9/starlight-princess-pragmatic-play.jpg",
                "link_demo":"https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?gameSymbol=vs20starlight&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobby_url=https%3A%2F%2Fwww.pragmaticplay.com%2Fen%2F&lang=ID&cur=DOLAR",
-               "link_vvip":"https://idrpiala88.com/?ref=solusikita"
+               "link_vvip":"https://toppiala88.com/?ref=apkgacor88"
             }, {
                "name":"Sword of Ares",
                "icon":"https://i.ibb.co/rwqQPqy/sword-of-ares-pragmatic-play.jpg",
                "link_demo":"https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=DOLAR&websiteUrl=https%3A%2F%2Fclienthub.pragmaticplay.com%2F&gcpif=2273&gameSymbol=vs20swordofares&jurisdiction=99&lobbyUrl=https://clienthub.pragmaticplay.com/slots/game-library/",
-               "link_vvip":"https://idrpiala88.com/?ref=solusikita"
+               "link_vvip":"https://toppiala88.com/?ref=apkgacor88"
             }, {
                "name":"Gates Of Gatot Kaca",
                "icon":"https://i.ibb.co/Yt5LH2r/gates-of-gatotkaca-pragmatic-play.jpg",
                "link_demo":"https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=DOLAR&websiteUrl=demogamesfree.pragmaticplay.net%26&gameSymbol=vs20gatotgates&jurisdiction=99&lobbyUrl=https://demoslot.monster",
-               "link_vvip":"https://idrpiala88.com/?ref=solusikita"
+               "link_vvip":"https://toppiala88.com/?ref=apkgacor88"
             }, {
                "name":"Spaceman",
                "icon":"https://i.ibb.co/CmcXxWN/spaceman-pragmatic-play.jpg",
                "link_demo":"https://prelive-gs1.pragmaticplaylive.net/api/spacemanDemo",
-               "link_vvip":"https://idrpiala88.com/?ref=solusikita"
+               "link_vvip":"https://toppiala88.com/?ref=apkgacor88"
             }, {
                "name":"Wild West Gold",
                "icon":"https://i.ibb.co/HBPD7Rf/wild-west-gold-pragmatic-play.jpg",
@@ -68,12 +68,12 @@
                "name":"5 Lion Megaways",
                "icon":"https://i.ibb.co/DDM0FZK/5-lions-megaways-pragmatic-play.jpg",
                "link_demo":"https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?gameSymbol=vswayslions&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobby_url=https%3A%2F%2Fwww.pragmaticplay.com%2Fen%2F&lang=ID&cur=DOLAR",
-               "link_vvip":"https://idrpiala88.com/?ref=solusikita"
+               "link_vvip":"https://toppiala88.com/?ref=apkgacor88"
             }, {
                "name":"Pyramid Bonanza",
                "icon":"https://i.ibb.co/Z2KYkBX/pyramid-bonanza-pragmatic-play.jpg",
                "link_demo":"https://demogamesfree-asia.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=DOLAR&gameSymbol=vs20pbonanza&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-               "link_vvip":"https://idrpiala88.com/?ref=solusikita"
+               "link_vvip":"https://toppiala88.com/?ref=apkgacor88"
             }
          ]
       },
@@ -86,52 +86,52 @@
                "name":"Koi Gate",
                "icon":"https://i.ibb.co/TY9G0pH/koi-gate-habanero.jpg",
                "link_demo":"https://app-test.insvr.com/games/?brandid=a9d542ac-c9bb-e311-93f6-80c16e0883f4&brandgameid=a103867f-7f21-467c-9208-5ee7149820cb&mode=fun&locale=id&ifrm=1&lobbyurl=pm-closeGame",
-               "link_vvip":"https://idrpiala88.com/?ref=solusikita"
+               "link_vvip":"https://toppiala88.com/?ref=apkgacor88"
             }, {
                "name":"Hot Hot Fruit",
                "icon":"https://i.ibb.co/T8xkbkJ/hot-hot-fruit-habanero.jpg",
                "link_demo":"https://app-test.insvr.com/games/?brandid=a9d542ac-c9bb-e311-93f6-80c16e0883f4&brandgameid=e5a04f51-6d20-4504-91bc-d17656d2e542&mode=fun&locale=id&ifrm=1&lobbyurl=pm-closeGame",
-               "link_vvip":"https://idrpiala88.com/?ref=solusikita"
+               "link_vvip":"https://toppiala88.com/?ref=apkgacor88"
             }, {
                "name":"Mystic Fortune",
                "icon":"https://i.ibb.co/C1r2976/mystic-fortune-deluxe-habanero.jpg",
                "link_demo":"https://app-test.insvr.com/games/?brandid=a9d542ac-c9bb-e311-93f6-80c16e0883f4&brandgameid=b23828b7-fb27-4802-a483-08e315a8700b&mode=fun&locale=id&ifrm=1&lobbyurl=pm-closeGame",
-               "link_vvip":"https://idrpiala88.com/?ref=solusikita"
+               "link_vvip":"https://toppiala88.com/?ref=apkgacor88"
             }, {
                "name":"FA Cai Shen",
                "icon":"https://i.ibb.co/HYdXKB0/fa-cai-shen-habanero.jpg",
                "link_demo":"https://app-test.insvr.com/games/?brandid=a9d542ac-c9bb-e311-93f6-80c16e0883f4&brandgameid=29254f13-920e-42f7-918b-8bb4a0c25388&mode=fun&locale=id&ifrm=1&lobbyurl=pm-closeGame",
-               "link_vvip":"https://idrpiala88.com/?ref=solusikita"
+               "link_vvip":"https://toppiala88.com/?ref=apkgacor88"
             }, {
                "name":"Wealth Inn",
                "icon":"https://i.ibb.co/nBpfFcm/wealth-inn-habanero.jpg",
                "link_demo":"https://app-test.insvr.com/games/?brandid=a9d542ac-c9bb-e311-93f6-80c16e0883f4&brandgameid=0dc1a412-a01a-44cc-8d65-b575ca2aa8eb&mode=fun&locale=id&ifrm=1&lobbyurl=pm-closeGame",
-               "link_vvip":"https://idrpiala88.com/?ref=solusikita"
+               "link_vvip":"https://toppiala88.com/?ref=apkgacor88"
             }, {
                "name":"Orbs Atlantis",
                "icon":"https://i.ibb.co/tLSR28M/orbs-of-atlantis-habanero.jpg",
                "link_demo":"https://app-test.insvr.com/games/?brandid=a9d542ac-c9bb-e311-93f6-80c16e0883f4&brandgameid=4ca3dc7b-bac6-450c-ac0e-c6371e9175a8&mode=fun&locale=id&ifrm=1&lobbyurl=pm-closeGame",
-               "link_vvip":"https://idrpiala88.com/?ref=solusikita"
+               "link_vvip":"https://toppiala88.com/?ref=apkgacor88"
             }, {
                "name":"Wild Trucs",
                "icon":"https://i.ibb.co/r73pRNG/wild-trucks-habanero.jpg",
                "link_demo":"https://app-test.insvr.com/games/?brandid=a9d542ac-c9bb-e311-93f6-80c16e0883f4&brandgameid=89d47514-abaf-4056-a5e4-69ec1e67693f&mode=fun&locale=id&ifrm=1&lobbyurl=pm-closeGame",
-               "link_vvip":"https://idrpiala88.com/?ref=solusikita"
+               "link_vvip":"https://toppiala88.com/?ref=apkgacor88"
             }, {
                "name":"5 lucky Lions",
                "icon":"https://i.ibb.co/VWXn2d6/5-lucky-lions-habanero.jpg",
                "link_demo":"https://app-test.insvr.com/games/?brandid=a9d542ac-c9bb-e311-93f6-80c16e0883f4&brandgameid=d6d1d02c-1973-416f-92ce-9802501132e3&mode=fun&locale=id&ifrm=1&lobbyurl=pm-closeGame",
-               "link_vvip":"https://idrpiala88.com/?ref=solusikita"
+               "link_vvip":"https://toppiala88.com/?ref=apkgacor88"
             }, {
                "name":"Lucky Durian",
                "icon":"https://i.ibb.co/8KsT0Qy/lucky-durian-habanero.jpg",
                "link_demo":"https://app-test.insvr.com/games/?brandid=a9d542ac-c9bb-e311-93f6-80c16e0883f4&brandgameid=e63c0965-5e2c-4bbe-839d-daea3f539bf1&mode=fun&locale=id&ifrm=1&lobbyurl=pm-closeGame",
-               "link_vvip":"https://idrpiala88.com/?ref=solusikita"
+               "link_vvip":"https://toppiala88.com/?ref=apkgacor88"
             }, {
                "name":"Four Divine Beasts",
                "icon":"https://i.ibb.co/WvrSTtz/four-divine-beasts-habanero.jpg",
                "link_demo":"https://app-test.insvr.com/games/?brandid=a9d542ac-c9bb-e311-93f6-80c16e0883f4&brandgameid=c759172e-b886-4fae-9414-c4ca2326b79f&mode=fun&locale=id&ifrm=1&lobbyurl=pm-closeGame",
-               "link_vvip":"https://idrpiala88.com/?ref=solusikita"
+               "link_vvip":"https://toppiala88.com/?ref=apkgacor88"
             }
          ]
       },
@@ -144,27 +144,27 @@
                "name":"Wanbao Dino",
                "icon":"https://i.ibb.co/hCNFFRB/wanbao-dino-cq9.jpg",
                "link_demo":"https://h5c.cqgame.games/70/?language=id&token=guest123",
-               "link_vvip":"https://idrpiala88.com/?ref=solusikita"
+               "link_vvip":"https://toppiala88.com/?ref=apkgacor88"
             }, {
                "name":"Gu Gu Gu 2",
                "icon":"https://i.ibb.co/51PyHNH/gu-gu-gu-2-cq9.jpg",
                "link_demo":"https://h5c.cqgame.games/58/?language=id&token=guest123",
-               "link_vvip":"https://idrpiala88.com/?ref=solusikita"
+               "link_vvip":"https://toppiala88.com/?ref=apkgacor88"
             }, {
                "name":"Good Fortune",
                "icon":"https://i.ibb.co/zr2C6fn/good-fortune-cq9.jpg",
                "link_demo":"https://h5c.cqgame.games/50/?language=id&token=guest123",
-               "link_vvip":"https://idrpiala88.com/?ref=solusikita"
+               "link_vvip":"https://toppiala88.com/?ref=apkgacor88"
             }, {
                "name":"Zeus",
                "icon":"https://i.ibb.co/xgQPCRT/zeus-cq9.jpg",
                "link_demo":"https://h5c.cqgame.games/64/?language=id&token=guest123",
-               "link_vvip":"https://idrpiala88.com/?ref=solusikita"
+               "link_vvip":"https://toppiala88.com/?ref=apkgacor88"
             }, {
                "name":"Hot Spin",
                "icon":"https://i.ibb.co/bz1VdZV/hot-spin-putaran-seru-cq9.jpg",
                "link_demo":"https://h5c.cqgame.games/19/?language=id&token=guest123",
-               "link_vvip":"https://idrpiala88.com/?ref=solusikita"
+               "link_vvip":"https://toppiala88.com/?ref=apkgacor88"
             }, {
                "name":"One Shot Fishing",
                "icon":"https://i.ibb.co/HppdgM6/oneshot-fishing-cq9.jpg",
@@ -174,22 +174,22 @@
                "name":"So Sweet",
                "icon":"https://i.ibb.co/1T7MjbW/so-sweet-manis-sekali-cq9.jpg",
                "link_demo":"https://h5c.cqgame.games/8/?language=id&token=guest123",
-               "link_vvip":"https://idrpiala88.com/?ref=solusikita"
+               "link_vvip":"https://toppiala88.com/?ref=apkgacor88"
             }, {
                "name":"Lucky Fishing",
                "icon":"https://i.ibb.co/cC9Pyb9/lucky-fishing-cq9.jpg",
                "link_demo":"https://fiweb.cqgame.games/GameRecord/client/AT05/?language=en&?token=GUESTPASS&language=zh-cn&dollarsign=Y&app=N&detect=N",
-               "link_vvip":"https://idrpiala88.com/?ref=solusikita"
+               "link_vvip":"https://toppiala88.com/?ref=apkgacor88"
             }, {
                "name":"Hercules",
                "icon":"https://i.ibb.co/5xt4yF3/hercules-cq9.jpg",
                "link_demo":"https://h5c.cqgame.games/161/?language=en&token=guest123",
-               "link_vvip":"https://idrpiala88.com/?ref=solusikita"
+               "link_vvip":"https://toppiala88.com/?ref=apkgacor88"
             }, {
                "name":"Apollo",
                "icon":"https://i.ibb.co/G5KsxRY/apollo-cq9.jpg",
                "link_demo":"https://h5c.cqgame.games/78/?language=id&token=guest123",
-               "link_vvip":"https://idrpiala88.com/?ref=solusikita"
+               "link_vvip":"https://toppiala88.com/?ref=apkgacor88"
             }
          ]
       },
@@ -202,52 +202,52 @@
                "name":"Mahjong Ways 2",
                "icon":"https://i.ibb.co/BV1Hn1F/mahjong-ways-2-pg-soft.jpg",
                "link_demo":"https://m.pgsoft-games.com/74/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://demoslot.monster/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com",
-               "link_vvip":"https://idrpiala88.com/?ref=solusikita"
+               "link_vvip":"https://toppiala88.com/?ref=apkgacor88"
             }, {
                "name":"Mahjong Ways",
                "icon":"https://i.ibb.co/HTR2jD4/mahjong-ways-pg-soft.jpg",
                "link_demo":"https://m.pgsoft-games.com/65/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://demoslot.monster/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com",
-               "link_vvip":"https://idrpiala88.com/?ref=solusikita"
+               "link_vvip":"https://toppiala88.com/?ref=apkgacor88"
             }, {
                "name":"Lucky Neko",
                "icon":"https://i.ibb.co/B3LyGdX/lucky-neko-pg-soft.jpg",
                "link_demo":"https://m.pgsoft-games.com/89/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://www.demoslot.monster/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com",
-               "link_vvip":"https://idrpiala88.com/?ref=solusikita"
+               "link_vvip":"https://toppiala88.com/?ref=apkgacor88"
             }, {
                "name":"Treasures Of Aztec",
                "icon":"https://i.ibb.co/dfF6Sjq/treasures-of-aztec-pg-soft.jpg",
                "link_demo":"https://m.pgsoft-games.com/87/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://www.demoslot.monster/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com",
-               "link_vvip":"https://idrpiala88.com/?ref=solusikita"
+               "link_vvip":"https://toppiala88.com/?ref=apkgacor88"
             }, {
                "name":"Wild Bounty Show Down",
                "icon":"https://i.ibb.co/Lv9XZRX/wild-bounty-showdown-pg-soft.jpg",
                "link_demo":"https://m.pgsoft-games.com/135/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://demoslot.monster/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com",
-               "link_vvip":"https://idrpiala88.com/?ref=solusikita"
+               "link_vvip":"https://toppiala88.com/?ref=apkgacor88"
             }, {
                "name":"Wild Bandito",
                "icon":"https://i.ibb.co/Ln7Cqct/wild-bandito-pg-soft.jpg",
                "link_demo":"https://m.pgsoft-games.com/104/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&__refer=m.pg-redirect.net&or=static.pgsoft-games.com",
-               "link_vvip":"https://idrpiala88.com/?ref=solusikita"
+               "link_vvip":"https://toppiala88.com/?ref=apkgacor88"
             }, {
                "name":"The Great Ice Space",
                "icon":"https://i.ibb.co/QfmznXj/the-great-icescape-pg-soft.jpg",
                "link_demo":"https://m.pgwhois.com/53/index.html?l=en&btt=2&ot=2B61C458-E48D-4A3C-BBC5-836D67747B8A&op=the-great-icescape&jurisdiction=MT&plugin=relax-gaming-v4&__refer=m.pg-acehg.com",
-               "link_vvip":"https://idrpiala88.com/?ref=solusikita"
+               "link_vvip":"https://toppiala88.com/?ref=apkgacor88"
             }, {
                "name":"Ways Of The Qilin",
                "icon":"https://i.ibb.co/LY4xNXF/ways-of-the-qilin-pg-soft.jpg",
                "link_demo":"https://m.pgsoft-games.com/106/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://www.demoslot.monster/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com",
-               "link_vvip":"https://idrpiala88.com/?ref=solusikita"
+               "link_vvip":"https://toppiala88.com/?ref=apkgacor88"
             }, {
                "name":"Caishen Wins",
                "icon":"https://i.ibb.co/VmcsZvG/caishen-wins-pg-soft.jpg",
                "link_demo":"https://m.pgsoft-games.com/71/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com",
-               "link_vvip":"https://idrpiala88.com/?ref=solusikita"
+               "link_vvip":"https://toppiala88.com/?ref=apkgacor88"
             }, {
                "name":"Dragon Hatch",
                "icon":"https://i.ibb.co/LNnfjBD/dragon-hatch-pg-soft.jpg",
                "link_demo":"https://m.pgsoft-games.com/57/index.html?l=id&ot=6a4e665bff55c79e7a4675050d5bc991&btt=2&__refer=m.pg-redirect.net&or=static.pgsoft-games.com",
-               "link_vvip":"https://idrpiala88.com/?ref=solusikita"
+               "link_vvip":"https://toppiala88.com/?ref=apkgacor88"
             }
          ]
       }
